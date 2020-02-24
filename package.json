@@ -1,0 +1,35 @@
+{
+  "name": "youtune",
+  "version": "1.0.0",
+  "description": "A React project that allows users to search and save their favorite songs and artists.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.27",
+    "@fortawesome/free-regular-svg-icons": "5.12.1",
+    "@fortawesome/free-solid-svg-icons": "5.12.1",
+    "@fortawesome/react-fontawesome": "0.1.8",
+    "axios": "0.19.2",
+    "bulma": "0.8.0",
+    "react": "16.12.0",
+    "react-bootstrap": "1.0.0-beta.16",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "reactstrap": "8.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
